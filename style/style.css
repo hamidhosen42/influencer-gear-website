@@ -331,8 +331,19 @@ small {
     left: 250px;
   }
 }
-
 @media (max-width: 600px) {
+  .company-logo {
+    grid-template-columns: repeat(1, 1fr);
+    margin-top: -10px;
+    text-align: center;
+  }
+  .imageTwo > img {
+    top: 220px;
+    left: 250px;
+  }
+}
+
+@media (max-width: 400px) {
   .populer-card {
     grid-template-columns: repeat(1, 1fr);
     margin-top: -10px;

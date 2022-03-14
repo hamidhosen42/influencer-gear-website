@@ -1,1 +1,1 @@
-﻿### [influencer-gear-website](https://hamidhosen42.github.io/influencer-gear-website/)
+﻿### [influencer-gear-website](https://influencer-gear-website.netlify.app/)
